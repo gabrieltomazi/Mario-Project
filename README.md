@@ -32,7 +32,7 @@ Siga estas etapas simples para rodar o projeto em sua máquina:
 
 2. Navegue até a Pasta:
 
-  ```cd NOME-DO-REPOSITORIO-DO-SLIDER```
+  ```cd NOME-DO-REPOSITORIO```
 
 3. <a href='#teste'> Abra o index.html: Basta clicar duas vezes no arquivo index.html no seu navegador (Chrome, Firefox, etc.). Não é necessário servidor local.</a>
 
