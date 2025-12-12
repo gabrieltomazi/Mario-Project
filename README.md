@@ -28,7 +28,7 @@ Siga estas etapas simples para rodar o projeto em sua máquina:
 
 1. Clone o Repositório:
 
-  ```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO-DO-SLIDER.git```
+  ```git clone https://github.com/gabrieltomazi/NOME-DO-REPOSITORIO.git```
 
 2. Navegue até a Pasta:
 
